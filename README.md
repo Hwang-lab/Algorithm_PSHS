@@ -25,6 +25,7 @@
 | 1주차  | [크로아티아 알파벳](https://www.acmicpc.net/problem/2941) | | 문자열 | |
 | 2주차  | [DFS와 BFS](https://www.acmicpc.net/problem/1260) | [섬의 개수](https://www.acmicpc.net/problem/4963) | 탐색 | |
 | 3주차  | [연결 요소의 개수](https://www.acmicpc.net/problem/11724) | | 탐색 | |
+| 4주차  | [안전영역](https://www.acmicpc.net/problem/2468) | | 탐색 | |
 ### :rainbow: 참여자
 
 - 이효동

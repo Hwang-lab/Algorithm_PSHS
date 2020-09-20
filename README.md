@@ -15,7 +15,7 @@
 - 매주 1문제씩 풀이하고 리뷰
 - 매주 이효동 스터디원이 1문제씩 문제 선정 후 업로드
 - 주마다 풀이 코드및 문제 풀이 설명을 업로드
-- 사용언어는 **효동**은 **C++**, **근원**은 **자바**로 진행
+- 사용언어는 **효동**은 **C++** 또는 **자바**, **근원**은 **자바**로 진행
 - 2020년 8월 13일 현재, 둘 다 언어가 익숙하지 않으므로 초기에는 언어를 익히기 위한 문제를 중점적으로 해결
 
 ### :cloud: Week Study
@@ -26,6 +26,7 @@
 | 2주차  | [DFS와 BFS](https://www.acmicpc.net/problem/1260) | [섬의 개수](https://www.acmicpc.net/problem/4963) | 탐색 | |
 | 3주차  | [연결 요소의 개수](https://www.acmicpc.net/problem/11724) | | 탐색 | |
 | 4주차  | [안전영역](https://www.acmicpc.net/problem/2468) | | 탐색 | |
+| 5주차  | [토마토](https://www.acmicpc.net/problem/7576) | [탈출](https://www.acmicpc.net/problem/3055) | 탐색 | |
 ### :rainbow: 참여자
 
 - 이효동
